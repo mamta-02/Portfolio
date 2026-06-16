@@ -243,8 +243,8 @@ button:hover {
     }
 
     .pic img {
-        width : 28vw;
-        height : auto;
+        width : 25vw;
+        height : 25vh;
     }
 }
 
