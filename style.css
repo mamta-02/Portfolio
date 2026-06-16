@@ -255,7 +255,8 @@ button:hover {
     padding: 20px;
     text-align:left;
     color :#dfd9d9;
-    background : linear-gradient(135deg, #1a1a1a, #2c2c2c);
+    background-color : #1a1a1a;
+
 }
 
 /* Skills Section */
