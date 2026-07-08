@@ -1,2 +1,2 @@
-# CodeAlpha_Portfolio
-My digital space on the web — showcasing academic projects, technical skills &amp; contact-info.
+This portfolio is my digital space on the web 🌐, where I showcase my projects 💻, skills 🚀, and learning journey 📚 in web development. It highlights my work using technologies like HTML, CSS, JavaScript, and WordPress ⚙️. Through this platform, I aim to demonstrate my ability to create responsive 📱 and user-friendly websites ✨. Each project reflects my continuous learning 📈 and improvement. You can explore my work here 🔍 and connect with me 🤝 for opportunities.
+
